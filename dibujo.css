@@ -35,3 +35,14 @@ body {
     right: 10%;
     top: 20%;
 }
+
+.boca {
+  width: 30px;
+  height: 15px;
+  border-bottom: 3px solid black;
+  border-radius: 0 0 20px 20px;
+  position: absolute;
+  bottom: 20px;
+  left: 50%;
+  transform: translateX(-50%);
+}
